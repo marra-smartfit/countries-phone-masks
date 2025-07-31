@@ -221,10 +221,7 @@
     "code": "+55",
     "iso": "BR",
     "flag": "https://cdn.kcak11.com/CountryFlags/countries/br.svg",
-    "mask": [
-      "(##)####-####",
-      "(##)#####-####"
-    ]
+    "mask": "(##) #####-####"
   },
   {
     "name": "British Indian Ocean Territory",
